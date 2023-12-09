@@ -21,6 +21,6 @@ Let's connect and collaborate on exciting :
 
 - Email: patelguddu030@gmail.com
 - LinkedIn: https://www.linkedin.com/in/guddu-patel-8181a3241/
-- Instagram: https://instagram.com/guddu_patel_08?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
+- Instagram: https://instagram.com/_guddu_patel_08_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
 
 
