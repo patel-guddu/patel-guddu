@@ -1,5 +1,6 @@
 
-Hello, I'm Guddu Patel ..! 👋 <br/> A passionate frontend developer from India
+# Hello, I'm Guddu Patel ..! 👋 
+A passionate frontend developer from India
 
 
 ## About Me
