@@ -7,9 +7,9 @@ I'm always excited about exploring new technologies and expanding my knowledge t
 
 - 🔭 I'm currently in the final year of my B.Tech in Information Technology.
 
-- 🌱 I’m currently learning ** ReactJS**
+- 🌱 I’m currently learning -** ReactJS**
 
-- 💬 Ask me about **HTML , CSS , Bootstrap , JavaScript , Java (Basic) , MySQL**
+- 💬 Ask me about - **HTML , CSS , Bootstrap , JavaScript , Java (Basic) , MySQL**
 
 - 📫 How to reach me **patelguddu030@gmail.com**
 
