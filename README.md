@@ -1,6 +1,6 @@
 
-# Hello, I'm Guddu Patel ..! 👋
-<i class="fa-solid fa-computer"></i>A passionate frontend developer from India
+# Hello, I'm Guddu Patel ..! 👋 <br/> A passionate frontend developer from India
+
 
 ## About Me
 
