@@ -5,17 +5,15 @@
 
 I'm always excited about exploring new technologies and expanding my knowledge to stay up-to-date with the ever-evolving world of this era.
 
-- 🔭 I’m currently a **B.Tech(IT)** Forth Year Student.
+- 🔭 I'm currently in the final year of my B.Tech in Information Technology.
 
-- 🌱 I’m currently learning **JavaScript and ReactJS**
+- 🌱 I’m currently learning ** ReactJS**
 
-- 💬 Ask me about **HTML,CSS, JavaScript, Bootstrap, Java, MySQL**
+- 💬 Ask me about **HTML , CSS , Bootstrap , JavaScript , Java (Basic) , MySQL**
 
 - 📫 How to reach me **patelguddu030@gmail.com**
 
-- ⚡ Fun fact **I think I'm extroverts**
-
-- <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Boy" />
+- <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Boy"  height="200px" width="100%"/>
 
 ## Connect with Me
 
