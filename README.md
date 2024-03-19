@@ -11,7 +11,7 @@ I'm always excited about exploring new technologies and expanding my knowledge t
 
  -🌱 I’m currently learning -** ReactJS**
 
- -💬 Ask me about - **HTML , CSS , Bootstrap , JavaScript , Java (Basic) , MySQL**
+ -💬 Ask me about - **HTML , CSS , Bootstrap , JavaScript , GSAP , Locomotive , ReactJS , Java (Basic) , MySQL**
 
  -📫 How to reach me **patelguddu030@gmail.com**
 
