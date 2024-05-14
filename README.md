@@ -15,7 +15,7 @@ I'm always excited about exploring new technologies and expanding my knowledge t
 
  -📫 How to reach me **patelguddu030@gmail.com**
 
- <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Boy" height="300px"/>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
 
 ## Connect with Me
 
